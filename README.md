@@ -52,3 +52,25 @@
   ```java
   User user = MockUtil.mock(User.class);
   ```
+
+## 支持的注解
+
+- Address
+- Age
+- Avatar
+- Birthday
+- Chinese
+- Date
+- DateTime
+- Disease
+- Entity
+- Gender
+- Hospital
+- IdNumber
+- Medicine
+- Name
+- Number
+- Phone
+- Price
+- Symptoms
+- University
