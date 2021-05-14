@@ -7,7 +7,7 @@
 
   ```xml
    <dependency>
-  		 <groupId>com.github.lzj960515</groupId>
+         <groupId>com.github.lzj960515</groupId>
          <artifactId>easy-mock</artifactId>
          <version>0.0.1</version>
    </dependency>
