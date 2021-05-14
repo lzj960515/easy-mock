@@ -37,9 +37,9 @@
 
     <scm>
         <tag>main</tag>
-        <url>https://github.com/lzj960515/easycanal.git</url>
-        <connection>scm:git:https://github.com/lzj960515/easycanal.git</connection>
-        <developerConnection>scm:git:git@github.com:lzj960515/easycanal.git</developerConnection>
+        <url>https://github.com/lzj960515/easy-mock.git</url>
+        <connection>scm:git:https://github.com/lzj960515/easy-mock.git</connection>
+        <developerConnection>scm:git:git@github.com:lzj960515/easy-mock.git</developerConnection>
     </scm>
 
     <developers>
